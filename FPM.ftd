@@ -7,3 +7,9 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/my-ftd-blog/main
 
 -- fpm.auto-import: ds
 -- fpm.auto-import: gsalunke.github.io/my-ftd-blog/FPM/config
+
+
+-- fpm.sitemap:
+
+# Home: index.html
+# Sample Post: /post/
