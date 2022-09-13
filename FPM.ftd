@@ -6,3 +6,4 @@ download-base-url: https://raw.githubusercontent.com/gsalunke/my-ftd-blog/main
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
 -- fpm.auto-import: ds
+-- fpm.auto-import: gsalunke.github.io/my-ftd-blog/FPM/config
